@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fragmentDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeMessage">Welcome tob Fragment Demo</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="this_is_about_activity">This is about activity</string>
+    <string name="about">about</string>
+</resources>
